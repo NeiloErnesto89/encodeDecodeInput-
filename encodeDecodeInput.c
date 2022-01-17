@@ -7,7 +7,7 @@
 *
 * Description : This program is intended to demonstrate encryption and decryption of strings
 *				depending on the users input. A user is first asked to select to either encrypt
-*			or decrypt a string (which the user inputs). The user can then enter in 
+*			  	or decrypt a string (which the user inputs). The user can then enter in 
 *				as many alphabetical characters/strings (upper & lowercase, with spaces) as they would  
 *				like, which will then be either encrypted or decyrpted, depending on the users choice.
 *				However, there is a char encoding limit of 200, so if the user exceeds this
